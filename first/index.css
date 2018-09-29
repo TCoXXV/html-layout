@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(141, 141, 141);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+header {
+    background-color: black;
+    /* height: 20vh;
+    width: 100vw; */
+    padding: 10vh 50vw;
+    margin: 0;
+    border: none;
+}
+div {
+    height: 70vh;
+    width: 75vw;
+    background-color: rgb(248, 248, 248);
+    /* align-content: auto; */
+    margin: auto;
+}
+
+footer {
+     background-color: black;
+    height: 10vh;
+    width: 75vw;
+    margin: auto;
+}

@@ -1,0 +1,42 @@
+header {
+    height: 100px;
+    background-color: lightslategrey;
+    margin: 0;
+}
+
+.hD {
+    display: inline-block;
+    background-color: rgb(6, 154, 212);
+    height: 80px;
+    width: 80px;
+    margin: 10px
+}
+
+#white {
+    height: 200px;
+    
+}
+p {
+    margin: 30px 20px;
+    font-size: 2rem;
+ }
+
+#blue {
+    background-color: rgb(6, 154, 212);
+    height: 100px;
+}
+
+#green {
+    background-color: rgb(4, 202, 169);
+    height: 100px;
+}
+
+#grass {
+    background-color: rgb(122, 224, 82);
+    height: 100px;
+}
+
+#yellow {
+    background-color: rgb(183, 199, 40);
+    height: 100px;
+}

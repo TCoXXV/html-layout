@@ -1,0 +1,70 @@
+/* body {
+    height: 100%;
+    width: 100%;
+} */
+header {
+    margin: 20px auto 10px auto;
+    height: 30vh;
+    width: 85vw;
+    border: 5px solid black;
+    padding: 10px;
+}
+#leftD, #midD, #rightD {
+    display: inline-block;
+    padding: 10px;
+}
+
+#leftD {
+    height: 75%;
+    width: 5%;
+    background-color: blueviolet;
+    margin: 0 10px 0 10px;
+    /* float: left; */
+    margin: 0 20px 0 0;
+}
+#midD {
+    height:90%;
+    width: 40%;
+    background-color: green;
+    margin-left: 20px;
+    /* float: left; */
+    /* margin: 10px 10px 10px 10px; */
+}
+
+#rightD {
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 50px;
+    height: 90%;
+    width: 20%;
+}
+
+.middleB {
+    height: 30vh;
+    width: 85vw;
+    border: 5px dotted black;
+    margin: 20px auto 10px auto;
+    padding: 10px;
+}
+
+#midmid {
+    height: 80%;
+    width: 80%;
+    background-color: burlywood;
+    margin: 20px auto;
+    box-shadow: 10px 10px 3px black;
+}
+
+#bottom {
+    height: 150px;
+    width: 30%;
+    border: 1px solid grey;
+    box-shadow: 3px 3px 3px grey;
+    margin: auto;
+}
+p {
+    margin: 40px;
+    text-align: center;
+    font-size: 30px;
+    color: navy;
+}
